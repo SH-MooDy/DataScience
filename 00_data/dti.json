@@ -1,0 +1,25 @@
+{
+	"Manufacturer": "Philips",
+	"PatientPosition": "H",
+	"SeriesDescription": "PIXEL",
+	"ProtocolName": "AxialDTI45dirSENSE",
+	"SeriesNumber": 4,
+	"AcquisitionNumber": 4,
+	"ImageComments": "BRAINMRI(NON_CONTRAST)+DIFFUSION",
+	"PhilipsRescaleSlope": 5.864,
+	"PhilipsRescaleIntercept": 0,
+	"PhilipsScaleSlope": 0.00149,
+	"UsePhilipsFloatNotDisplayScaling": 1,
+	"EchoTime": 0.091,
+	"RepetitionTime": 9.158,
+	"ReconMatrixPE": 128,
+	"ImageOrientationPatientDICOM": [
+		0.995415,
+		0.0726016,
+		0.0622698,
+		-0.0453756,
+		0.931553,
+		-0.360763	],
+	"ConversionSoftware": "dcm2niix",
+	"ConversionSoftwareVersion": "v1.0.20190902"
+}

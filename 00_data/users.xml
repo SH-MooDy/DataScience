@@ -1,0 +1,14 @@
+<users>
+        <user rank="1">
+            <name> 원지혜 </name>
+            <age>31</age>
+        </user>
+        <user rank="2">
+            <name> 도토리 </name>
+            <age>8</age>
+        </user>
+        <user rank="3">
+            <name> 미나리 </name>
+            <age>8</age>
+        </user>
+</users>
